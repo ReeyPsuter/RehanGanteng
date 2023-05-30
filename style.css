@@ -1,0 +1,27 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+header{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+.about, .skills, .project {
+    padding: 40px;
+}
+.skills{
+    background-color: gray;
+}
+.skills ul{
+    list-style-type: none;
+}
+
+footer{
+    background-color: black;
+    text-align: center;
+    padding: 5px;
+    color: white;
+}
+
